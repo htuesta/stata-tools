@@ -3,7 +3,7 @@
 
   Author : Hugo Tuesta 
   Created: June 2022
-  Updated: [date]
+  Updated: [June 2022]
 
   Purpose:
     Parses the HURDAT2 Atlantic hurricane database (NOAA/NHC) from its raw
