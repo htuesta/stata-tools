@@ -7,14 +7,15 @@ anonymised data.
 ## Files
 
 ### hurdat2_jun_2022_clean.do
-Parses the NOAA/NHC HURDAT2 Atlantic hurricane database from its raw 
+Clean/put together the NOAA/NHC HURDAT2 Atlantic hurricane database from its raw 
 fixed-format text file into a clean Stata panel dataset (storm-observation 
 and storm-month level, 1980–2022).
 
 ### Balance_Table_clean.do
 Produces baseline balance tables for a randomised controlled trial (RCT): 
 means, SDs, t-test p-values, and percentiles P10–P90 by treatment arm, 
-exported to Excel. Includes iteration over multiple subsamples.
+exported to Excel. Includes iteration over multiple subsamples. Flexible 
+do file to apply to other projects - replace treatement with gender, etc.
 
 ### power_analysis_clean.do
 Ex-ante power analysis for a business training RCT using Stata's 
