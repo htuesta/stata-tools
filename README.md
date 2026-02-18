@@ -29,3 +29,10 @@ variables and produces power curves.
 ## Notes
 Before running any script, set the `gl root` global at the top of each 
 file to your local data directory.
+
+## Acknowledgements
+
+Code organization, documentation, and bug fixes in this repository were
+assisted by Claude (Anthropic). The analytical logic, methodological
+choices, and original code are my own work developed at the Ministry of
+Economy (Peru), and IDB.
